@@ -1,0 +1,15 @@
+/Users/davidsmith/Desktop/Repos/Int_Pra_42_Lamda_WhereClause/Int_Pra_42_Lamda_WhereClause/bin/Debug/net7.0/Int_Pra_42_Lamda_WhereClause
+/Users/davidsmith/Desktop/Repos/Int_Pra_42_Lamda_WhereClause/Int_Pra_42_Lamda_WhereClause/bin/Debug/net7.0/Int_Pra_42_Lamda_WhereClause.deps.json
+/Users/davidsmith/Desktop/Repos/Int_Pra_42_Lamda_WhereClause/Int_Pra_42_Lamda_WhereClause/bin/Debug/net7.0/Int_Pra_42_Lamda_WhereClause.runtimeconfig.json
+/Users/davidsmith/Desktop/Repos/Int_Pra_42_Lamda_WhereClause/Int_Pra_42_Lamda_WhereClause/bin/Debug/net7.0/Int_Pra_42_Lamda_WhereClause.dll
+/Users/davidsmith/Desktop/Repos/Int_Pra_42_Lamda_WhereClause/Int_Pra_42_Lamda_WhereClause/bin/Debug/net7.0/Int_Pra_42_Lamda_WhereClause.pdb
+/Users/davidsmith/Desktop/Repos/Int_Pra_42_Lamda_WhereClause/Int_Pra_42_Lamda_WhereClause/obj/Debug/net7.0/Int_Pra_42_Lamda_WhereClause.csproj.AssemblyReference.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_42_Lamda_WhereClause/Int_Pra_42_Lamda_WhereClause/obj/Debug/net7.0/Int_Pra_42_Lamda_WhereClause.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidsmith/Desktop/Repos/Int_Pra_42_Lamda_WhereClause/Int_Pra_42_Lamda_WhereClause/obj/Debug/net7.0/Int_Pra_42_Lamda_WhereClause.AssemblyInfoInputs.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_42_Lamda_WhereClause/Int_Pra_42_Lamda_WhereClause/obj/Debug/net7.0/Int_Pra_42_Lamda_WhereClause.AssemblyInfo.cs
+/Users/davidsmith/Desktop/Repos/Int_Pra_42_Lamda_WhereClause/Int_Pra_42_Lamda_WhereClause/obj/Debug/net7.0/Int_Pra_42_Lamda_WhereClause.csproj.CoreCompileInputs.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_42_Lamda_WhereClause/Int_Pra_42_Lamda_WhereClause/obj/Debug/net7.0/Int_Pra_42_Lamda_WhereClause.dll
+/Users/davidsmith/Desktop/Repos/Int_Pra_42_Lamda_WhereClause/Int_Pra_42_Lamda_WhereClause/obj/Debug/net7.0/refint/Int_Pra_42_Lamda_WhereClause.dll
+/Users/davidsmith/Desktop/Repos/Int_Pra_42_Lamda_WhereClause/Int_Pra_42_Lamda_WhereClause/obj/Debug/net7.0/Int_Pra_42_Lamda_WhereClause.pdb
+/Users/davidsmith/Desktop/Repos/Int_Pra_42_Lamda_WhereClause/Int_Pra_42_Lamda_WhereClause/obj/Debug/net7.0/Int_Pra_42_Lamda_WhereClause.genruntimeconfig.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_42_Lamda_WhereClause/Int_Pra_42_Lamda_WhereClause/obj/Debug/net7.0/ref/Int_Pra_42_Lamda_WhereClause.dll
